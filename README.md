@@ -29,6 +29,4 @@ Problem Statement: Generate rare-human actions with AI Video Generator
 
 # Team Members:
 
-- [Jahnavi Reddy](https://github.com/Jahnavirdy2003)
-
-- [Gangadhar Reddy]()
+- [Dhanush Pujari](https://github.com/dhanu31003/NVIDA_TRACK-A_Team18.git)
