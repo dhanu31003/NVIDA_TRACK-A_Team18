@@ -8,17 +8,13 @@ Problem Statement: Generate rare-human actions with AI Video Generator
 
 # Steps:
 
-- Import required libraries 
-- Load video captioning and AI video generation models.
-
-- Define a function to extract video frames and generate captions.
-
-- Define a function to generate AI videos based on captions.
-
-- Create a function to process input video, generate captions, and AI videos.
-
-- Build a Gradio interface for video upload, caption display, and AI video generation.
-- Launch the Gradio app for user interaction.
+- Import the necessary libraries.
+- Initialize models for video captioning and AI-based video creation.
+- Develop a function to extract frames from the video and generate captions.
+- Write a function to create AI-generated videos using the captions.
+- Design a process to handle video input, produce captions, and create AI-generated videos.
+- Build a Gradio interface for uploading videos, displaying captions, and generating AI-based videos.
+- Run the Gradio application for user interaction.
 
 # Interface Using Gradio:
 ![](images/img1.jpg)
